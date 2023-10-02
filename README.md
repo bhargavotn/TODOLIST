@@ -56,7 +56,7 @@ please clone the project through github and run on your own device
 Description
 This is a simple Todo List web application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It allows users to create, read, update, and delete tasks in a convenient and organized manner.
 
-Technologies Used
+# Technologies used
 MongoDB: MongoDB is used as the database to store and manage tasks.
 
 Express.js: Express.js is used as the backend framework to handle HTTP requests and API routes.
