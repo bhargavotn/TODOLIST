@@ -12,7 +12,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone [https://github.com/your-username/todo-list-app.git](https://github.com/bhargavotn/TODOLIST.git)
+git clone https://github.com/bhargavotn/TODOLIST.git
 Install dependencies for both the client and server:
 
 bash
