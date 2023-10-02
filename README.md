@@ -12,7 +12,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/todo-list-app.git
+git clone [https://github.com/your-username/todo-list-app.git](https://github.com/bhargavotn/TODOLIST.git)
 Install dependencies for both the client and server:
 
 bash
@@ -50,3 +50,6 @@ npm start
 Usage
 Access the client application in your web browser by visiting http://localhost:3000.
 You can now use the Todo List application to add, edit, and delete tasks.
+frontend and backend of todolist web application the complete working how to run in your local server please go through the video link https://tella.video/my-video-9o69 how to run the project in your system
+https://todolisting-24f60.web.app/ this link is only for frontend not backend 
+please clone the project through github and run on your own device
